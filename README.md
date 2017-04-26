@@ -7,6 +7,7 @@ Author...
 
 
 I. Build the project
+
 	- Configure your work environment with a stable version of Java, Eclipse, and Maven.
 	- Follow the installation of Woleet.io api : https://github.com/woleet/woleet-openapi-java-client
 	- Import our project in a new Maven repository
