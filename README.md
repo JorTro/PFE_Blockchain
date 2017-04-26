@@ -16,12 +16,14 @@ I. Build the project
 
 II. Run Clients
 1) Generate an Anchor
+
 	- Go to the java Client AnchorGenerator
 	- Run the java Client with the Path of your file in argument
 	- The java Client return the details of your anchor. It can take some hours for 
 	the bitcoin's blockchain validation.
 	
 2) Search for an existing Anchor
+
 	- Go to the java Client AnchorSearch
 	- Run the java Client with the Id of your Anchor in argument
 	- The java Client return the Id and the Name of your anchor if it exist.
