@@ -1,4 +1,5 @@
 *** Projet de Fin d'Etudes ***
+Integration of a BlockChain API Solution for a Use case of QualyCloud.
 
 Imane El_Bagdouri
 Jordan Troesch
